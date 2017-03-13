@@ -8,5 +8,5 @@ You can watch the talk [here](https://youtu.be/9ai9Yabw2hk).
 
 And the slides are available:
 
-- [keynote without speaker notes](/tech-for-everyone.pdf)
-- [keynote with speaker notes](/tech-for-everyone-wnotes.pdf)
+- [keynote without speaker notes](/tech-is-for-everyone/tech-for-everyone.pdf)
+- [keynote with speaker notes](/tech-is-for-everyone/tech-for-everyone-wnotes.pdf)
